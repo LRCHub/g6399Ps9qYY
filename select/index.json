@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Oz.",
+  "base_artist": "yama",
+  "createdAt": "2026-02-23T05:14:59.278414Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Doctor Oz",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/01_Doctor_Oz_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wizard of Oz",
+      "artist": "Toy-Box",
+      "has_synced": true,
+      "path": "select/02_Wizard_of_Oz_Toy-Box.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hoez n Oz",
+      "artist": "Chief Keef",
+      "has_synced": false,
+      "path": "select/03_Hoez_n_Oz_Chief_Keef.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hoez N Oz",
+      "artist": "Chief Keef",
+      "has_synced": true,
+      "path": "select/04_Hoez_N_Oz_Chief_Keef.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Return to Oz",
+      "artist": "Scissor Sisters",
+      "has_synced": true,
+      "path": "select/05_Return_to_Oz_Scissor_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "40 Oz. & Sober",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/06_40_Oz._&_Sober_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "40 Oz. & Sober (Remix) [Prod. JCKRUBY]",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/07_40_Oz._&_Sober_(Remix)_[Prod._JCKRUBY]_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Oz Factor (A Cappella)",
+      "artist": "Unwritten Law",
+      "has_synced": false,
+      "path": "select/08_Oz_Factor_(A_Cappella)_Unwritten_Law.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "40 Oz.",
+      "artist": "D12",
+      "has_synced": true,
+      "path": "select/09_40_Oz._D12.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wizard Of Oz",
+      "artist": "Logic",
+      "has_synced": true,
+      "path": "select/10_Wizard_Of_Oz_Logic.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "40 oz. Dream",
+      "artist": "Good Charlotte",
+      "has_synced": false,
+      "path": "select/11_40_oz._Dream_Good_Charlotte.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Oz.",
+      "artist": "Machine Gun Kelly",
+      "has_synced": true,
+      "path": "select/12_Oz._Machine_Gun_Kelly.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "What Time Is Love (live From the Land of Oz)",
+      "artist": "The KLF",
+      "has_synced": false,
+      "path": "select/13_What_Time_Is_Love_(live_From_the_Land_of_Oz)_The_KLF.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Move Any Mountain (I.R.P. in the Land of Oz mix)",
+      "artist": "The Shamen",
+      "has_synced": false,
+      "path": "select/14_Move_Any_Mountain_(I.R.P._in_the_Land_of_Oz_mix)_The_Shamen.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Getting Closer (Extended Oz Mix)",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/15_Getting_Closer_(Extended_Oz_Mix)_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Getting Closer (Extended Oz Mix)",
+      "artist": "Kylie Minogue",
+      "has_synced": false,
+      "path": "select/16_Getting_Closer_(Extended_Oz_Mix)_Kylie_Minogue.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Greedy Fly (16 Oz Demo)",
+      "artist": "Bush",
+      "has_synced": true,
+      "path": "select/17_Greedy_Fly_(16_Oz_Demo)_Bush.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Just Can't Say Goodbye - Bonus Track - UK/Jap/Oz/Nz",
+      "artist": "Lionel Richie",
+      "has_synced": false,
+      "path": "select/18_Just_Can't_Say_Goodbye_-_Bonus_Track_-_UK_Jap_Oz_Nz_Lionel_Richie.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Just Can't Say Goodbye (Bonus Track UK\u0000Jap\u0000Oz\u0000Nz)",
+      "artist": "Lionel Richie",
+      "has_synced": true,
+      "path": "select/19_Just_Can't_Say_Goodbye_(Bonus_Track_UK\u0000Jap\u0000Oz\u0000Nz)_Lionel_Richie.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Sarbaz E Vatan (Soldier) - سرباز وطن (feat. Oz n da Deacon)",
+      "artist": "YAS",
+      "has_synced": true,
+      "path": "select/20_Sarbaz_E_Vatan_(Soldier)_-_سرباز_وطن_(feat._Oz_n_da_Deacon)_YAS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Oz.",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_Oz._yama.txt"
+    }
+  ]
+}
